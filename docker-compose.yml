@@ -1,6 +1,6 @@
 version: "2"
 services:
-  cordova-ui:
+  ui-cordova:
     image: openlmis/dev-ui:5
     working_dir: /app
     volumes:
