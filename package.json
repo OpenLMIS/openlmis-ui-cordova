@@ -1,0 +1,13 @@
+{
+  "name": "openlmis-requisition-ui",
+  "version": "5.0.3-SNAPSHOT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpenLMIS/openlmis-reference-ui"
+  },
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "openlmis-ui": "file:///dev-ui"
+  },
+  "dependencies": {}
+}
