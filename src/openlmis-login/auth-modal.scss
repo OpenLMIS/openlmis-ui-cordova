@@ -1,0 +1,29 @@
+
+
+
+@media (max-width: 700px) {
+
+	body > * {
+		flex: 0 0 auto;
+	}
+
+	.modal {
+		position: static;
+	}
+
+	.auth-modal .modal-dialog {
+		width: auto;
+		margin: 0px;
+	}
+
+	.modal.auth-modal .modal-body {
+		background-size: auto 200px;
+		background-position: 50% $space-size;
+		padding: 0.5em 2em !important;
+		padding-top: 200px !important;
+	}
+
+}
+
+
+
