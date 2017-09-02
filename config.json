@@ -3,11 +3,6 @@
     "/openlmis-ui-components",
     "/openlmis-ui-layout",
     "/openlmis-auth-ui",
-    "/openlmis-referencedata-ui",
-    "/openlmis-report-ui",
-    "/openlmis-requisition-ui",
-    "/openlmis-fulfillment-ui",
-    "/openlmis-cce-ui",
-    "/openlmis-stockmanagement-ui"
+    "/openlmis-referencedata-ui"
   ]
 }
